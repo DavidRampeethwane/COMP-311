@@ -3,7 +3,7 @@ import java.util.Scanner;  // telling java to include scanner from the util pack
 public class Question2 {
     public static void main(String[] args) {
         //i Created a Scanner object called console to capture inputs from the keyboard(system.in).
-        Scanner console = new Scanner(System.in);
+        Scanner  = new Scanner(System.in);
 
         //prompt to ask the user to enter their full name.
         System.out.print("Enter your full name: ");
